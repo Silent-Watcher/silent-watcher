@@ -24,11 +24,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
-<h2> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" data-target="animated-image.originalLink"><img width="25px" height="25px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> Skills </h2>
+<h2> Socials </h2>
 
 <p align="center"> <a href="http://www.instagram.com/ali.tte1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.linkedin.com/in/ali-tabatabaee-9021081aa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; <a target="_blank" href="mailto:alitabatabaee20@gmail.com"><img src="https://camo.githubusercontent.com/650b256fac63f9d4e0f32d92e06c5e44d4b4530ddbf78be0c1803746d80c3201/68747470733a2f2f6170692e69636f6e6966792e64657369676e2f6c6f676f733a676f6f676c652d676d61696c2e737667" width="32" height="32" alt="Gmail" data-canonical-src="https://api.iconify.design/logos:google-gmail.svg" style="max-width: 100%;"></a></p>
 
-<b>My GitHub Stats</b>
+
+<h2> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" data-target="animated-image.originalLink"><img width="25px" height="25px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> My GitHub Stats </h2>
 
 <p align="center"> 
   <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" /></a> 

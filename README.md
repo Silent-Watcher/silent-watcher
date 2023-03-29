@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- <img src="https://iili.io/HNZFoQV.gif" width="200" height="200"> -->
 <a href="#"><img src="https://iili.io/HNZFoQV.gif" width="100" height="100"> </a>
+
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 <!--[![HNZFoQV.gif](https://iili.io/HNZFoQV.gif)](https://freeimage.host/)-->
 

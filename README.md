@@ -1,8 +1,8 @@
 <p align="center"><img src="https://iili.io/HNt0XYF.png" alt="Ali t.nazari"/></p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali t.nazari
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) and Welcome !  
 ====================================================================================================================================
-
+##  About me
 * 🧠  I'm learning everything about holy JavaScript
 * 🤝  I'm open to collaborating on open source projects
 * ⚡  the rumbling survivor

@@ -40,4 +40,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="#"><img src="https://iili.io/HNZFoQV.gif" width="120" height="120"></a>
 </p>
 
-![Snake animation](https://github.com/silent-watcher/silent-watcher/blob/output/github-contribution-grid-snake.svg)
+<p align="center"><img src="https://github.com/silent-watcher/silent-watcher/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"></p>

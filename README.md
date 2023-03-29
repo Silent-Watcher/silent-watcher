@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 | - | - |
 
 <p align='center'>
-
 | [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | <a href="#"><img src="https://iili.io/HNZFoQV.gif" width="100" height="100"></a>| 
 | - | - |
 </p>

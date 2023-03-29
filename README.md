@@ -33,7 +33,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="center"> 
   <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" /></a> 
   <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent-Watcher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
-==================================
+  
+====================================================================================================================================
+
 <p align="center"><a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
 <a href="#"><img src="https://iili.io/HNZFoQV.gif" width="120" height="120"></a>
 </p>

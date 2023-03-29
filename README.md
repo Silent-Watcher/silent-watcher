@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--[![HNZFoQV.gif](https://iili.io/HNZFoQV.gif)](https://freeimage.host/)-->
 
 
-| [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | <a href="#"><img src="https://iili.io/HNZFoQV.gif" width="100" height="100"></a>| 
+| [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | <a href="#"><img src="https://iili.io/HNZFoQV.gif" width="120" height="120"></a>| 
 | - | - |
 
 

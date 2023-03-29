@@ -15,18 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <img src="https://iili.io/HNZFoQV.gif" width="200" height="200"> -->
-<a href="#"><img src="https://iili.io/HNZFoQV.gif" width="100" height="100"> </a>
+<!--<a href="#"><img src="https://iili.io/HNZFoQV.gif" width="100" height="100"> </a>-->
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+<!--[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)-->
 <!--[![HNZFoQV.gif](https://iili.io/HNZFoQV.gif)](https://freeimage.host/)-->
-
-![Snake animation](https://github.com/silent-watcher/silent-watcher/blob/output/github-contribution-grid-snake.svg)
 
 
 | [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | <a href="#"><img src="https://iili.io/HNZFoQV.gif" width="100" height="100"></a>| 
 | - | - |
 
-<p align='center'>
-  | [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | <a href="#"><img src="https://iili.io/HNZFoQV.gif" width="100" height="100"></a>| 
-| - | - |
-</p>
+
+![Snake animation](https://github.com/silent-watcher/silent-watcher/blob/output/github-contribution-grid-snake.svg)

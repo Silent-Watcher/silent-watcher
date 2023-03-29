@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://iili.io/HNZFoQV.gif" width="200" height="200">
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 ![Snake animation](https://github.com/silent-watcher/silent-watcher/blob/output/github-contribution-grid-snake.svg)

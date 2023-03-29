@@ -7,8 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝  I'm open to collaborating on open source projects
 * ⚡  the rumbling survivor
 
-<a href="https://www.github.com/Silent-Watcher" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Silent-Watcher?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -42,11 +40,3 @@ src="https://img.shields.io/github/followers/Silent-Watcher?logo=github&style=fo
 
 
 ![Snake animation](https://github.com/silent-watcher/silent-watcher/blob/output/github-contribution-grid-snake.svg)
-
-
-
-<!-- <img src="https://iili.io/HNZFoQV.gif" width="200" height="200"> -->
-<!--<a href="#"><img src="https://iili.io/HNZFoQV.gif" width="100" height="100"> </a>-->
-
-<!--[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)-->
-<!--[![HNZFoQV.gif](https://iili.io/HNZFoQV.gif)](https://freeimage.host/)-->

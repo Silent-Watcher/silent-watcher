@@ -36,10 +36,9 @@ src="https://img.shields.io/github/followers/Silent-Watcher?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<p align="center"> <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" /></a> <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent-Watcher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>| </p>
+<p align="center"> <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" /></a> <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent-Watcher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
-| <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" /></a> | <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent-Watcher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>|
-| - | - |
+<p align="center"> [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) <a href="#"><img src="https://iili.io/HNZFoQV.gif" width="120" height="120"></a></p>
 
 
 | [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | <a href="#"><img src="https://iili.io/HNZFoQV.gif" width="120" height="120"></a>| 

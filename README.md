@@ -1,6 +1,6 @@
-<p align="center"><img width="100px" height="100px" src="https://iili.io/HNt0XYF.png" alt="Ali t.nazari"/></p>
+<p align="center"><img  src="https://iili.io/HNt0XYF.png" alt="Ali t.nazari"/></p>
 
-<h1><p>Hi and Welcome ! <img width="50px" height="50px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""></p></h1>
+<h1><p>Hi and Welcome ! <img width="20px" height="20px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""></p></h1>
 
 
 ## 🤔 About me

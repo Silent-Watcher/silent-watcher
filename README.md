@@ -29,7 +29,7 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://iili.io/HO90vvp.png" width="36" height="30" alt="Pug" /></a>
 <a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://iili.io/HO91yRp.png" width="19" height="38" alt="gulpjs" /></a>
-<a href="https://materializecss.com" target="_blank" rel="noreferrer"><img  src="https://cdn.cdnlogo.com/logos/m/56/materialize-css.svg" width="36" height="36"></a>
+<a href="https://materializecss.com" target="_blank" rel="noreferrer"><img  src="https://cdn.cdnlogo.com/logos/m/56/materialize-css.svg" width="40" height="40"></a>
 </p>
 
 

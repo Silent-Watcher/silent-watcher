@@ -54,3 +54,5 @@
 </p>
 
 <p align="center"><img src="https://github.com/silent-watcher/silent-watcher/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"></p>
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)

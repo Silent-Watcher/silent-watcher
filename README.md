@@ -55,7 +55,7 @@
 
 <p align="center"><img src="https://github.com/silent-watcher/silent-watcher/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"></p>
  
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+so+much+for+coming+here+🙏+ " alt="Typing SVG"></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Indie+Flower&size=30&duration=6000&pause=1500&center=true&vCenter=true&width=435&lines=Thank+you+so+much+for+coming+here+🙏+ " alt="Typing SVG"></a></p>
  
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&duration=6000&pause=1500&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a></p>
 

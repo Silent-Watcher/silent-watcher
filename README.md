@@ -57,6 +57,6 @@
  
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Indie+Flower&size=30&duration=6000&pause=1500&center=true&vCenter=true&width=435&lines=Thank+you+so+much+for+coming+here+🙏+ " alt="Typing SVG"></a></p>
  
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&duration=6000&pause=1500&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=30&pause=1500&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a></p>
 
 <p align="right" dir="auto"><a href="#top"><img src="https://camo.githubusercontent.com/e1841103e21c8d259906c3966adf531a10190503cc02aa2a625a08270dcde817/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c266d6573736167653d6261636b2b746f2b746f7026636f6c6f723d626c7565267374796c653d666c6174266c6f676f" alt="back to top" data-canonical-src="https://img.shields.io/static/v1?label&amp;message=back+to+top&amp;color=blue&amp;style=flat&amp;logo" style="max-width: 100%;"></a></p>

@@ -8,7 +8,7 @@
 
 * 🧠  I'm learning everything about holy JavaScript
 * 🤝  I'm open to collaborating on open source projects
-* ⚡  the rumbling survivor
+* ⚡  The Rumbling Survivor
 
 <p align="center">
 <a href="https://ali-nazari.netlify.app/" rel="nofollow">

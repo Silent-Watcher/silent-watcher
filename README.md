@@ -81,7 +81,7 @@
 </p>
 
 <!--snake animation-->
-![snake gif](https://github.com/Silent-Watcher/Silent-Watcher/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Silent-Watcher/silent-watcher/blob/output/github-contribution-grid-snake.gif)
 
 <!-- scroll to top -->
 <p align="right" dir="auto">

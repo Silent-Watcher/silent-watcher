@@ -80,9 +80,6 @@
 <img src="img/anime.gif" width="120" height="120">
 </p>
 
-<!--snake animation-->
-![snake gif](https://github.com/Silent-Watcher/silent-watcher/blob/output/github-contribution-grid-snake.gif)
-
 <!-- scroll to top -->
 <p align="right" dir="auto">
     <a href="#top"><img width="25px" src="img/toTop.png" alt="back to top" data-canonical-src="https://img.shields.io/static/v1?label&amp;message=back+to+top&amp;color=blue&amp;style=flat&amp;logo" style="max-width: 100%;"></a>

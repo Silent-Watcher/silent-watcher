@@ -1,7 +1,7 @@
 <!-- banner -->
 <p align="center" id="top"><img src="img/main-banner.png" alt="Ali t.nazari"/></p>
 <!-- welcome -->
-<h1 align="center"><p>Hi&nbsp<img width="30px" height="30px" src="img/animatedEmoji-1.gif" alt="hand"> , and Welcome ! <img width="30px" height="30px" src="img/animatedHandEmoji.gif" alt="hand"></p></h1>
+<h1 align="center">Hi&nbsp;<img width="30px" height="30px" src="img/animatedEmoji-1.gif" alt="hand"> , and Welcome ! <img width="30px" height="30px" src="img/animatedHandEmoji.gif" alt="hand"></h1>
 
 <!-- skills & socials -->
 <div style="display:flex;align-items:center;justify-content:space-around;flex-wrap:wrap">

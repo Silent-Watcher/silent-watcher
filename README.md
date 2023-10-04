@@ -1,12 +1,11 @@
 <!-- banner -->
 <p align="center" id="top"><img src="img/main-banner.png" alt="Ali t.nazari"/></p>
 <!-- welcome -->
-<h1 align="center">Hi&nbsp;<img width="30px" height="30px" src="img/animatedEmoji-1.gif" alt="hand"> , and Welcome ! <img width="30px" height="30px" src="img/animatedHandEmoji.gif" alt="hand"></h1>
+<p><h1> Hi <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width='30px' height='30px'></a>, and Welcome ! <img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""></h1></p>
 
 <!-- skills & socials -->
-<p>
-  <a>
-    <h2 style="display:flex;align-items:center;justify-content:flex-start;flex-wrap:wrap">
+<p align="left">
+    <h2>
       <img width="50px" height="50px" src="img/astronautCat.gif" alt="cat">&nbsp;
       <span>About me</span>
     </h2>
@@ -15,74 +14,37 @@
       <p>🤝  I'm open to collaborating on open source projects</p>
       <p>⚡  The Rumbling Survivor</p>
     </ul>
-  </a>
-  <a>
-    <h2 align="center" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">&nbsp;
-      <img width="40px" src="img/socials.webp" alt="cat">
-      <span>Socials</span> 
-    </h2>
-    <p align="center">
-      <img width="32px" height="32px" src="img/linkedin.svg" alt="linkedin"> &nbsp;
-      <img width="32px" height="32px" src="img/gmail.svg" alt="gmail"> &nbsp;
-      <img width="32px" height="32px" src="img/discord.svg" alt="discord"> &nbsp;
-    </p>
-    <p align="center">
-       <a href="https://ali-nazari.netlify.app/" rel="nofollow">
-         <img alt="Website" src="img/portfolioImgBadge.svg" style="max-width: 100%;border-radius:5px">
-       </a>
-    </p>
-    <p align="center">
+      <p align="center">
+      <a href="https://ali-nazari.netlify.app/" rel="nofollow">
+        <img alt="Website" src="img/portfolioImgBadge.svg" style="max-width: 100%;border-radius:5px">
+      </a>
       <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
         <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">
       </a>
-    </p>
-  </a>
+      </p>
 </p>
 
-<!-- <div style="display:flex;align-items:center;justify-content:space-around;flex-wrap:wrap">
-  <div>
-    <h2 style="display:flex;align-items:center;justify-content:flex-start;flex-wrap:wrap">
-      <img width="50px" height="50px" src="img/astronautCat.gif" alt="cat">&nbsp;
-      <span>About me</span>
-    </h2>
-    <ul>
-      <p>🧠  I'm learning everything about holy JavaScript</p>
-      <p>🤝  I'm open to collaborating on open source projects</p>
-      <p>⚡  The Rumbling Survivor</p>
-    </ul>
-  </div>
 
-  <div>
-    <h2 style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">&nbsp;
-      <img width="40px" src="img/socials.webp" alt="cat">
-      <span>Socials</span> 
-    </h2>
-    <p align="center">
+<p align="right">
+  <h2 align="left" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">&nbsp;
+    <img width="40px" src="img/socials.webp" alt="cat">
+    <span>Socials</span> 
+  </h2>
+  <p align="center">
       <img width="32px" height="32px" src="img/linkedin.svg" alt="linkedin"> &nbsp;
       <img width="32px" height="32px" src="img/gmail.svg" alt="gmail"> &nbsp;
       <img width="32px" height="32px" src="img/discord.svg" alt="discord"> &nbsp;
-    </p>
-    <p align="center">
-       <a href="https://ali-nazari.netlify.app/" rel="nofollow">
-         <img alt="Website" src="img/portfolioImgBadge.svg" style="max-width: 100%;border-radius:5px">
-       </a>
-    </p>
-    <p align="center">
-      <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
-        <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">
-      </a>
-    </p>
-  </div>
-</div> -->
+  </p>
+</p>
 
 <!-- skills -->
-<h2 align="center" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">
+<h2 align="left" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">
   <img width="32px" height="32px" src="img/skillsHeader.webp" alt="skills">&nbsp;
   <span>Skills</span>
 </h2>
-<div align="center">
-  <h3> FrontEnd </h3>
-  <div>  
+<p align="center">
+  <h3 align="center"> FrontEnd </h3>
+  <p align="center">  
     <img width="36px" height="36px" src="img/javascript.svg" alt="javascript">
     <img width="36px" height="36px" src="img/typescript.svg" alt="typescript">
     <img width="36px" height="36px" src="img/html5.svg" alt="html5">
@@ -90,19 +52,19 @@
     <img width="36px" height="36px" src="img/bootstrap.svg" alt="bootstrap">
     <img width="36px" height="36px" src="img/sass.svg" alt="sass">
     <img width="36px" height="36px" src="img/vite.svg" alt="vite">
-  </div>
-  <h3> BackEnd </h3>
-  <div>  
+  </p>
+  <h3 align="center"> BackEnd </h3>
+  <p align="center">  
     <img width="36px" height="36px" src="img/nodejs.svg" alt="javascript">
     <img width="36px" height="36px" src="img/express.svg" alt="typescript">
     <img width="36px" height="36px" src="img/mongodb.svg" alt="html5">
     <img width="36px" height="36px" src="img/mysql.svg" alt="css3">
-  </div>
-</div>
+  </p>
+</p>
 &nbsp;
 
 <!-- stats -->
-<h2 align="center" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">
+<h2 align="left" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">
   <img width="25px" height="25px" src="img/stats.gif" alt="stats">&nbsp;
   <span>My GitHub Stats</span>
 </h2>
@@ -120,14 +82,13 @@
 </p>
 
 <!-- spotify -->
-<div style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">
-  <p>
-    <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
-  </p>
-  <p><img src="img/anime.gif" width="120" height="120" style="border-radius:5px;"></p>
-</div>
+<p align="center">
+<a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"><img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify"></a>
+<img src="img/anime.gif" width="120" height="120">
+</p>
 
 <!-- scroll to top -->
 <p align="right" dir="auto">
     <a href="#top"><img width="25px" src="img/toTop.png" alt="back to top" data-canonical-src="https://img.shields.io/static/v1?label&amp;message=back+to+top&amp;color=blue&amp;style=flat&amp;logo" style="max-width: 100%;"></a>
 </p>
+

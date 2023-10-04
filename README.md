@@ -5,10 +5,7 @@
 
 <!-- skills & socials -->
 <p align="left">
-    <h2>
-      <img width="50px" height="50px" src="img/astronautCat.gif" alt="cat">&nbsp;
-      <span>About me</span>
-    </h2>
+    <h2> <a href="#"><img width="50px" height="50px" src="img/astronautCat.gif" alt="cat"></a> About me </h2>
 </p>
  
 * 🧠  I'm learning everything about holy JavaScript
@@ -25,9 +22,8 @@
 </p>
 
 <p align="right">
-  <h2 align="left" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">&nbsp;
-    <img width="40px" src="img/socials.webp" alt="cat">
-    <span>Socials</span> 
+  <h2 align="left">
+     <a href=""><img width="40px" src="img/socials.webp" alt="cat"></a>Socials
   </h2>
   <p align="center">
       <img width="32px" height="32px" src="img/linkedin.svg" alt="linkedin"> &nbsp;
@@ -37,9 +33,8 @@
 </p>
 
 <!-- skills -->
-<h2 align="left" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">
-  <img width="32px" height="32px" src="img/skillsHeader.webp" alt="skills">&nbsp;
-  <span>Skills</span>
+<h2 align="left">
+    <a href=""><img width="32px" height="32px" src="img/skillsHeader.webp" alt="skills"></a>Skills
 </h2>
 <p align="center">
   <h3 align="center"> FrontEnd </h3>
@@ -63,9 +58,8 @@
 &nbsp;
 
 <!-- stats -->
-<h2 align="left" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">
-  <img width="25px" height="25px" src="img/stats.gif" alt="stats">&nbsp;
-  <span>My GitHub Stats</span>
+<h2 align="left">
+    <a href=""><img width="25px" height="25px" src="img/stats.gif" alt="stats"></a> My GitHub Stats
 </h2>
 
 <p align="center"> 

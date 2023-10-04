@@ -69,6 +69,8 @@
   </a>  
 </p>
 
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Silent-Watcher&no-bg=true&amp;row=2&amp;column=3&no-frame=true&amp;theme=gruvbox" alt="trophy"></a></p>
+
 <!-- line -->
 <p align="center">
 <img src="./img/line.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">

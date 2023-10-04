@@ -37,7 +37,7 @@
     <a href=""><img width="32px" height="32px" src="img/skillsHeader.webp" alt="skills"></a>Skills
 </h2>
 <p align="center">
-  <h3 align="center"><a href="#">FrontEnd </a></h3>
+  <h3 align="center"><a href="#"> FrontEnd </a></h3>
   <p align="center">  
     <img width="36px" height="36px" src="img/javascript.svg" alt="javascript">
     <img width="36px" height="36px" src="img/typescript.svg" alt="typescript">

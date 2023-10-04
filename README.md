@@ -39,24 +39,22 @@
 <p align="center">
   <h3 align="center"><a href="#"> FrontEnd </a></h3>
   <p align="center">  
-    <img width="36px" height="36px" src="img/javascript.svg" alt="javascript">
-    <img width="36px" height="36px" src="img/typescript.svg" alt="typescript">
-    <img width="36px" height="36px" src="img/html5.svg" alt="html5">
-    <img width="36px" height="36px" src="img/css3.svg" alt="css3">
-    <img width="36px" height="36px" src="img/bootstrap.svg" alt="bootstrap">
-    <img width="36px" height="36px" src="img/sass.svg" alt="sass">
-    <img width="36px" height="36px" src="img/vite.svg" alt="vite">
+      <a href="https://www.javascript.com/"><img width="36px" height="36px" src="img/javascript.svg" alt="javascript"></a>
+      <a href="https://www.typescriptlang.org/"><img width="36px" height="36px" src="img/typescript.svg" alt="typescript"></a>
+      <a href="https://html5.org/"><img width="36px" height="36px" src="img/html5.svg" alt="html5"></a>
+      <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img width="36px" height="36px" src="img/css3.svg" alt="css3"></a>
+      <a href="https://getbootstrap.com/"><img width="36px" height="36px" src="img/bootstrap.svg" alt="bootstrap"></a>
+      <a href="https://sass-lang.com/"><img width="36px" height="36px" src="img/sass.svg" alt="sass"></a>
+      <a href="https://vitejs.dev/"><img width="36px" height="36px" src="img/vite.svg" alt="vite"></a>
   </p>
   <h3 align="center"><a href="#">BackEnd</a></h3>
   <p align="center">  
-    <img width="36px" height="36px" src="img/nodejs.svg" alt="javascript">
-    <img width="36px" height="36px" src="img/express.svg" alt="typescript">
-    <img width="36px" height="36px" src="img/mongodb.svg" alt="html5">
-    <img width="36px" height="36px" src="img/mysql.svg" alt="css3">
+      <a href="https://nodejs.org/en"><img width="36px" height="36px" src="img/nodejs.svg" alt="javascript"></a>
+      <a href="https://expressjs.com/"><img width="36px" height="36px" src="img/express.svg" alt="typescript"></a>
+      <a href="https://www.mongodb.com/"><img width="36px" height="36px" src="img/mongodb.svg" alt="html5"></a>
+      <a href="https://www.mysql.com/"><img width="36px" height="36px" src="img/mysql.svg" alt="css3"></a>
   </p>
 </p>
-&nbsp;
-
 <!-- stats -->
 <h2 align="left">
     <a href=""><img width="25px" height="25px" src="img/stats.gif" alt="stats"></a> My GitHub Stats

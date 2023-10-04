@@ -26,9 +26,9 @@
      <a href=""><img width="40px" src="img/socials.webp" alt="cat"></a>Socials
   </h2>
   <p align="center">
-      <img width="32px" height="32px" src="img/linkedin.svg" alt="linkedin"> &nbsp;
-      <img width="32px" height="32px" src="img/gmail.svg" alt="gmail"> &nbsp;
-      <img width="32px" height="32px" src="img/discord.svg" alt="discord"> &nbsp;
+      <a href="https://www.linkedin.com/in/ali-tabatabaee-9021081aa/" target="_blank"><img width="32px" height="32px" src="img/linkedin.svg" alt="linkedin"> &nbsp;</a>
+      <a href="mailto:alitabatabaee20@gmail.com" target="_blank"><img width="32px" height="32px" src="img/gmail.svg" alt="gmail"> &nbsp;</a>
+      <a href=""><img width="32px" height="32px" src="img/discord.svg" alt="discord"> &nbsp;</a>
   </p>
 </p>
 

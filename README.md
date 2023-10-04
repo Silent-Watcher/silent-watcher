@@ -9,21 +9,20 @@
       <img width="50px" height="50px" src="img/astronautCat.gif" alt="cat">&nbsp;
       <span>About me</span>
     </h2>
-    <ul>
-      <p>🧠  I'm learning everything about holy JavaScript</p>
-      <p>🤝  I'm open to collaborating on open source projects</p>
-      <p>⚡  The Rumbling Survivor</p>
-    </ul>
-      <p align="center">
+</p>
+ 
+* 🧠  I'm learning everything about holy JavaScript</p>
+* 🤝  I'm open to collaborating on open source projects</p>
+* ⚡  The Rumbling Survivor</p>
+     
+<p align="center">
       <a href="https://ali-nazari.netlify.app/" rel="nofollow">
         <img alt="Website" src="img/portfolioImgBadge.svg" style="max-width: 100%;border-radius:5px">
       </a>
       <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
         <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">
       </a>
-      </p>
 </p>
-
 
 <p align="right">
   <h2 align="left" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">&nbsp;

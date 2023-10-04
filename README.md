@@ -4,8 +4,42 @@
 <h1 align="center">Hi&nbsp;<img width="30px" height="30px" src="img/animatedEmoji-1.gif" alt="hand"> , and Welcome ! <img width="30px" height="30px" src="img/animatedHandEmoji.gif" alt="hand"></h1>
 
 <!-- skills & socials -->
-<div style="display:flex;align-items:center;justify-content:space-around;flex-wrap:wrap">
-<!-- left section -->
+<p>
+  <a>
+    <h2 style="display:flex;align-items:center;justify-content:flex-start;flex-wrap:wrap">
+      <img width="50px" height="50px" src="img/astronautCat.gif" alt="cat">&nbsp;
+      <span>About me</span>
+    </h2>
+    <ul>
+      <p>🧠  I'm learning everything about holy JavaScript</p>
+      <p>🤝  I'm open to collaborating on open source projects</p>
+      <p>⚡  The Rumbling Survivor</p>
+    </ul>
+  </a>
+  <a>
+    <h2 align="center" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">&nbsp;
+      <img width="40px" src="img/socials.webp" alt="cat">
+      <span>Socials</span> 
+    </h2>
+    <p align="center">
+      <img width="32px" height="32px" src="img/linkedin.svg" alt="linkedin"> &nbsp;
+      <img width="32px" height="32px" src="img/gmail.svg" alt="gmail"> &nbsp;
+      <img width="32px" height="32px" src="img/discord.svg" alt="discord"> &nbsp;
+    </p>
+    <p align="center">
+       <a href="https://ali-nazari.netlify.app/" rel="nofollow">
+         <img alt="Website" src="img/portfolioImgBadge.svg" style="max-width: 100%;border-radius:5px">
+       </a>
+    </p>
+    <p align="center">
+      <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
+        <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">
+      </a>
+    </p>
+  </a>
+</p>
+
+<!-- <div style="display:flex;align-items:center;justify-content:space-around;flex-wrap:wrap">
   <div>
     <h2 style="display:flex;align-items:center;justify-content:flex-start;flex-wrap:wrap">
       <img width="50px" height="50px" src="img/astronautCat.gif" alt="cat">&nbsp;
@@ -17,7 +51,7 @@
       <p>⚡  The Rumbling Survivor</p>
     </ul>
   </div>
-<!-- right section -->
+
   <div>
     <h2 style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">&nbsp;
       <img width="40px" src="img/socials.webp" alt="cat">
@@ -39,7 +73,7 @@
       </a>
     </p>
   </div>
-</div>
+</div> -->
 
 <!-- skills -->
 <h2 align="center" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap">

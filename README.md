@@ -11,9 +11,9 @@
     </h2>
 </p>
  
-* 🧠  I'm learning everything about holy JavaScript</p>
-* 🤝  I'm open to collaborating on open source projects</p>
-* ⚡  The Rumbling Survivor</p>
+* 🧠  I'm learning everything about holy JavaScript
+* 🤝  I'm open to collaborating on open source projects
+* ⚡  The Rumbling Survivor
      
 <p align="center">
       <a href="https://ali-nazari.netlify.app/" rel="nofollow">

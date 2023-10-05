@@ -37,7 +37,7 @@
     <a href=""><img width="32px" height="32px" src="img/skillsHeader.webp" alt="skills"></a>Skills
 </h2>
 <p align="center">
-  <h3 align="center"><a href="#"> FrontEnd </a></h3>
+  <h3 align="center"><a href="#" noreferrer nofollow> FrontEnd </a></h3>
   <p align="center">  
       <a href="https://www.javascript.com/"><img width="36px" height="36px" src="img/javascript.svg" alt="javascript"></a>
       <a href="https://www.typescriptlang.org/"><img width="36px" height="36px" src="img/typescript.svg" alt="typescript"></a>
@@ -47,7 +47,7 @@
       <a href="https://sass-lang.com/"><img width="36px" height="36px" src="img/sass.svg" alt="sass"></a>
       <a href="https://vitejs.dev/"><img width="36px" height="36px" src="img/vite.svg" alt="vite"></a>
   </p>
-  <h3 align="center"><a href="#">BackEnd</a></h3>
+  <h3 align="center"><a href="#" noreferrer nofollow>BackEnd</a></h3>
   <p align="center">  
       <a href="https://nodejs.org/en"><img width="36px" height="36px" src="img/nodejs.svg" alt="javascript"></a>
       <a href="https://expressjs.com/"><img width="36px" height="36px" src="img/express.svg" alt="typescript"></a>

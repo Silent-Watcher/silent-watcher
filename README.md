@@ -66,10 +66,10 @@
   <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent-Watcher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="370px" />
   </a>  
 </p>
-
+<!--profile-trophy -->
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Silent-Watcher&no-bg=true&amp;row=2&amp;column=3&no-frame=true&amp;theme=gruvbox" alt="trophy"></a></p>
 <!-- top languages-->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silent-Watcher&show_icons=true&locale=en&layout=compact&hide=pug,php,scss,css,html,python" alt="top-langs" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silent-Watcher&show_icons=true&locale=en&layout=compact&hide=pug,php,scss,css,html,python&bg_color=1C1917&hide_border=true&text_color=fff&title_color=0891B2" alt="top-langs" /></p>
 
 <!-- line -->
 <p align="center">

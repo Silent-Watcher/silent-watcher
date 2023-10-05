@@ -68,7 +68,8 @@
 </p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Silent-Watcher&no-bg=true&amp;row=2&amp;column=3&no-frame=true&amp;theme=gruvbox" alt="trophy"></a></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silent-Watcher&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
+<!-- top languages-->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silent-Watcher&show_icons=true&locale=en&layout=compact&hide=pug,php,scss,css,html,python" alt="top-langs" /></p>
 
 <!-- line -->
 <p align="center">

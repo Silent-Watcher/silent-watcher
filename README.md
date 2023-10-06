@@ -49,12 +49,13 @@
   </p>
   <h3 align="center">BackEnd</h3>
   <p align="center">  
-      <a href="https://nodejs.org/en"><img width="36px" height="36px" src="img/nodejs.svg" alt="javascript"></a>
-      <a href="https://expressjs.com/"><img width="36px" height="36px" src="img/express.svg" alt="typescript"></a>
-      <a href="https://www.mongodb.com/"><img width="36px" height="36px" src="img/mongodb.svg" alt="html5"></a>
-      <a href="https://www.mysql.com/"><img width="36px" height="36px" src="img/mysql.svg" alt="css3"></a>
+      <a href="https://nodejs.org/en"><img width="36px" height="36px" src="img/nodejs.svg" alt="nodejs"></a>
+      <a href="https://expressjs.com/"><img width="36px" height="36px" src="img/expressjs.svg" alt="expressjs"></a>
+      <a href="https://www.mongodb.com/"><img width="36px" height="36px" src="img/mongodb.svg" alt="mongodb"></a>
+      <a href="https://www.mysql.com/"><img width="36px" height="36px" src="img/mysql.svg" alt="mysql"></a>
   </p>
 </p>
+
 <!-- stats -->
 <h2 align="left">
     <a href=""><img width="25px" height="25px" src="img/stats.gif" alt="stats"></a> My GitHub Stats
@@ -66,8 +67,10 @@
   <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent-Watcher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="370px" />
   </a>  
 </p>
+
 <!--profile-trophy -->
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Silent-Watcher&no-bg=true&amp;row=2&amp;column=3&no-frame=true&amp;theme=gruvbox" alt="trophy"></a></p>
+
 <!-- top languages-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silent-Watcher&show_icons=true&locale=en&layout=compact&hide=pug,php,scss,css,html,python&bg_color=1C1917&hide_border=true&text_color=fff&title_color=0891B2" alt="top-langs" /></p>
 

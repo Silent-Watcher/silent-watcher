@@ -11,7 +11,9 @@
 * 🧠  I'm learning everything about holy JavaScript
 * 🤝  I'm open to collaborating on open source projects
 * ⚡  The Rumbling Survivor
-     
+
+<p align="center">🐱‍👤  Programming, like the Uchiha Sharingan, unveils hidden insights, allowing you to see beyond the surface and innovate.</p>
+
 <p align="center">
       <a href="https://ali-nazari.netlify.app/" rel="nofollow">
         <img alt="Website" src="img/portfolioImgBadge.svg" style="max-width: 100%;border-radius:5px">

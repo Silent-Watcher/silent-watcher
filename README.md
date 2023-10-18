@@ -22,6 +22,7 @@
         <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">
       </a>
 </p>
+    <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=green" alt=""></p>
 
 <p align="right">
   <h2 align="left">

@@ -8,9 +8,10 @@
     <h2> <a href="#"><img width="50px" height="50px" src="img/astronautCat.gif" alt="cat"></a> About me </h2>
 </p>
  
-* 🧠  I'm learning everything about holy JavaScript
-* 🤝  I'm open to collaborating on open source projects
-* ⚡  The Rumbling Survivor
+- 🧠  I'm learning everything about holy JavaScript
+- 🤝  I'm open to collaborating on open source projects
+- 👀 I’m interested in programming(backend)
+- ⚡  The Rumbling Survivor
 
 <p align="center"> 🥷 Programming, like the Uchiha Sharingan, unveils hidden insights, allowing you to see beyond the surface and innovate.</p>
 

@@ -14,7 +14,7 @@
 - 📫 How to reach me in my bio
 - ⚡ The Rumbling Survivor
 
-<p align="center"> 🥷 Programming, like the Uchiha Sharingan, unveils hidden insights, allowing you to see beyond the surface and innovate.</p>
+- Passionate about `technology 💻`, `music 🎸`, `gym 🏋️‍♂️`, `personal development 📚`, `investments 💰`, `travel 🗽`, `nature ⛺`, `games 🎮`, `learn new things 👨‍🎓`, `anime 📺`, `pudding 🍮` and more!
 
 <p align="center">
       <a href="https://ali-nazari.netlify.app/" rel="nofollow">

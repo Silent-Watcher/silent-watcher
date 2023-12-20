@@ -14,7 +14,7 @@
 - 📫 How to reach me in my bio
 - ⚡ The Rumbling Survivor
 
-- Passionate about `technology 💻`, `music 🎸`, `gym 🏋️‍♂️`, `personal development 📚`, `investments 💰`, `travel 🗽`, `nature ⛺`, `games 🎮`, `learn new things 👨‍🎓`, `anime 📺`, `pudding 🍮` and more!
+- Passionate about `technology 💻`, `music 🎸`, `gym 🏋️‍♂️`, `travel 🗽`, `games 🎮`, `learn new things 👨‍🎓`, `anime 📺` and more!
 
 <p align="center">
       <a href="https://ali-nazari.netlify.app/" rel="nofollow">

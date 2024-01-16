@@ -16,12 +16,12 @@
 - Passionate about `technology 💻`, `music 🎸`, `anime 📺`
 
 <p align="center">
-      <a href="https://ali-nazari.netlify.app/" rel="nofollow">
-        <img alt="Website" src="img/portfolioImgBadge.svg" style="max-width: 100%;border-radius:5px">
+      <a href="https://ali-nazari.netlify.app/" rel="nofollow" target="_blank">
+        <img alt="Website" src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=todoist&logoColor=white" style="max-width: 100%;border-radius:5px">
       </a>
-      <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
+<!--       <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
         <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">
-      </a>
+      </a> -->
 </p>
     <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt=""></p>
 

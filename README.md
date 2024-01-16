@@ -39,7 +39,7 @@
           </picture>
         </a>
       <!-- gmail -->
-        <a href="mailto:alitabatabaee20@gmail.com" target="_blank">
+        <a href="mailto:backendwithali@gmail.com" target="_blank">
           <picture>
               <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
               <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light">

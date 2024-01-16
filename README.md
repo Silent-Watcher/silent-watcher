@@ -8,13 +8,13 @@
     <h2> <a href="#"><img width="50px" height="50px" src="img/astronautCat.gif" alt="cat"></a> About me </h2>
 </p>
  
-- 🧠 I'm learning everything about holy JavaScript
+
 - 🤝 I'm open to collaborating on open source projects
 - 👀 I’m interested in programming(backend)
 - 📫 How to reach me in my bio
-- ⚡ The Rumbling Survivor
 
-- Passionate about `technology 💻`, `music 🎸`, `gym 🏋️‍♂️`, `travel 🗽`, `games 🎮`, `learn new things 👨‍🎓`, `anime 📺`
+
+- Passionate about `technology 💻`, `music 🎸`, `anime 📺`
 
 <p align="center">
       <a href="https://ali-nazari.netlify.app/" rel="nofollow">
@@ -31,9 +31,30 @@
      <a href=""><img width="40px" src="img/socials.webp" alt="cat"></a>Socials
   </h2>
   <p align="center">
-      <a href="https://www.linkedin.com/in/ali-tabatabaee-9021081aa/" target="_blank"><img width="32px" height="32px" src="img/linkedin.svg" alt="linkedin"> &nbsp;</a>
-      <a href="mailto:alitabatabaee20@gmail.com" target="_blank"><img width="32px" height="32px" src="img/gmail.svg" alt="gmail"> &nbsp;</a>
-      <a href="https://discordapp.com/users/ali.t.nazari" target="_blank"><img width="32px" height="32px" src="img/discord.svg" alt="discord"> &nbsp;</a>
+      <!-- linkedin -->
+        <a href="https://www.linkedin.com/in/ali-tabatabaee-9021081aa/" target="_blank">
+          <picture >
+              <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
+              <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
+              <img alt="javascript" src="https://skillicons.dev/icons?i=linkedin">
+          </picture>
+        </a>
+      <!-- gmail -->
+        <a href="mailto:alitabatabaee20@gmail.com" target="_blank">
+          <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
+              <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
+              <img alt="javascript" src="https://skillicons.dev/icons?i=gmail">
+          </picture>
+        </a>
+      <!-- discord -->
+        <a href="https://discordapp.com/users/ali.t.nazari" target="_blank">
+          <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=discord&theme=dark">
+              <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=discord&theme=light">
+              <img alt="javascript" src="https://skillicons.dev/icons?i=discord">
+          </picture>
+        </a>
   </p>
 </p>
 
@@ -42,23 +63,11 @@
     <a href=""><img width="32px" height="32px" src="img/skillsHeader.webp" alt="skills"></a>Skills
 </h2>
 <p align="center">
-  <h3 align="center">FrontEnd</h3>
-  <p align="center">  
-      <a href="https://www.javascript.com/"><img width="36px" height="36px" src="img/javascript.svg" alt="javascript"></a>
-      <a href="https://www.typescriptlang.org/"><img width="36px" height="36px" src="img/typescript.svg" alt="typescript"></a>
-      <a href="https://html5.org/"><img width="36px" height="36px" src="img/html5.svg" alt="html5"></a>
-      <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img width="36px" height="36px" src="img/css3.svg" alt="css3"></a>
-      <a href="https://getbootstrap.com/"><img width="36px" height="36px" src="img/bootstrap.svg" alt="bootstrap"></a>
-      <a href="https://sass-lang.com/"><img width="36px" height="36px" src="img/sass.svg" alt="sass"></a>
-      <a href="https://vitejs.dev/"><img width="36px" height="36px" src="img/vite.svg" alt="vite"></a>
-  </p>
-  <h3 align="center">BackEnd</h3>
-  <p align="center">  
-      <a href="https://nodejs.org/en"><img width="36px" height="36px" src="img/nodejs.svg" alt="nodejs"></a>
-      <a href="https://expressjs.com/"><img width="36px" height="36px" src="img/expressjs.svg" alt="expressjs"></a>
-      <a href="https://www.mongodb.com/"><img width="36px" height="36px" src="img/mongodb.svg" alt="mongodb"></a>
-      <a href="https://www.mysql.com/"><img width="36px" height="36px" src="img/mysql.svg" alt="mysql"></a>
-  </p>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql&theme=light">
+        <img alt="javascript" src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql">
+    </picture>
 </p>
 
 <!-- stats -->
@@ -73,11 +82,12 @@
   </a>  
 </p>
 
+<!-- top languages-->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silent-Watcher&show_icons=true&locale=en&layout=compact&hide=pug,php,scss,css,html,python&bg_color=1C1917&hide_border=true&text_color=fff&title_color=0891B2" alt="top-langs" /></p>
+
 <!--profile-trophy -->
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Silent-Watcher&no-bg=true&amp;row=2&amp;column=3&no-frame=true&amp;theme=gruvbox" alt="trophy"></a></p>
 
-<!-- top languages-->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silent-Watcher&show_icons=true&locale=en&layout=compact&hide=pug,php,scss,css,html,python&bg_color=1C1917&hide_border=true&text_color=fff&title_color=0891B2" alt="top-langs" /></p>
 
 <!-- line -->
 <p align="center">
@@ -101,4 +111,3 @@
 <p align="right" dir="auto">
     <a href="#top"><img width="25px" src="img/toTop.png" alt="back to top" data-canonical-src="https://img.shields.io/static/v1?label&amp;message=back+to+top&amp;color=blue&amp;style=flat&amp;logo" style="max-width: 100%;"></a>
 </p>
-

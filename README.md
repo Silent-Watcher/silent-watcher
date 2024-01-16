@@ -7,12 +7,11 @@
 <p align="left">
     <h2> <a href="#"><img width="50px" height="50px" src="img/astronautCat.gif" alt="cat"></a> About me </h2>
 </p>
- 
+
 
 - 🤝 I'm open to collaborating on open source projects
 - 👀 I’m interested in programming(backend)
 - 📫 How to reach me in my bio
-
 
 - Passionate about `technology 💻`, `music 🎸`, `anime 📺`
 
@@ -64,9 +63,34 @@
 </h2>
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql&theme=light">
-        <img alt="skills" src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=js">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=ts">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=nodejs">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=express&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=express">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=mongodb">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light">
+        <img alt="skills" src="https://skillicons.dev/icons?i=mysql">
     </picture>
 </p>
 
@@ -87,7 +111,6 @@
 
 <!--profile-trophy -->
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Silent-Watcher&no-bg=true&amp;row=2&amp;column=3&no-frame=true&amp;theme=gruvbox" alt="trophy"></a></p>
-
 
 <!-- line -->
 <p align="center">

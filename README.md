@@ -36,7 +36,7 @@
           <picture >
               <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
               <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
-              <img alt="javascript" src="https://skillicons.dev/icons?i=linkedin">
+              <img alt="linkedin" src="https://skillicons.dev/icons?i=linkedin">
           </picture>
         </a>
       <!-- gmail -->
@@ -44,7 +44,7 @@
           <picture>
               <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
               <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
-              <img alt="javascript" src="https://skillicons.dev/icons?i=gmail">
+              <img alt="gmail" src="https://skillicons.dev/icons?i=gmail">
           </picture>
         </a>
       <!-- discord -->
@@ -52,7 +52,7 @@
           <picture>
               <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=discord&theme=dark">
               <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=discord&theme=light">
-              <img alt="javascript" src="https://skillicons.dev/icons?i=discord">
+              <img alt="discord" src="https://skillicons.dev/icons?i=discord">
           </picture>
         </a>
   </p>
@@ -66,7 +66,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql&theme=dark">
         <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql&theme=light">
-        <img alt="javascript" src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql">
+        <img alt="skills" src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql">
     </picture>
 </p>
 

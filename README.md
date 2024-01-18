@@ -31,7 +31,7 @@
   </h2>
   <p align="center">
       <!-- linkedin -->
-        <a href="https://www.linkedin.com/in/ali-tabatabaee-9021081aa/" target="_blank">
+        <a href="https://www.linkedin.com/in/alitte" target="_blank">
           <picture >
               <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
               <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">

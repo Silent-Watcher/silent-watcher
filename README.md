@@ -116,21 +116,14 @@
 </h2>
 
 <p align="center"> 
-  <a href="http://www.github.com/Silent-Watcher">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=dark">
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=F4F2ED&hide_border=true&show_icons=true&theme=default">
-            <img alt="skills" src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=F4F2ED&hide_border=true&show_icons=true">
-        </picture>
-  </a> 
-<!--   <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" width="370px" />
-  </a>  -->
-  <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent-Watcher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="370px" />
+  <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&icon_color=0891b2&bg_color=00000000&text_color=3498db&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" width="370px" />
+  </a>  
+  <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent-Watcher&stroke=3498db&background=00000000&ring=0891b2&fire=0891b2&currStreakNum=3498db&currStreakLabel=0891b2&sideNums=3498db&sideLabels=3498db&dates=3498db&hide_border=true" width="370px" />
   </a>  
 </p>
 
 <!-- top languages-->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silent-Watcher&show_icons=true&locale=en&layout=compact&hide=pug,php,scss,css,html,python&bg_color=1C1917&hide_border=true&text_color=fff&title_color=0891B2" alt="top-langs" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silent-Watcher&show_icons=true&locale=en&layout=compact&hide=pug,php,scss,css,html,python&bg_color=00000000&hide_border=true&text_color=3498db&title_color=3498db" alt="top-langs" /></p>
 
 <!--profile-trophy -->
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Silent-Watcher&no-bg=true&amp;row=2&amp;column=3&no-frame=true&amp;theme=gruvbox" alt="trophy"></a></p>

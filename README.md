@@ -1,5 +1,5 @@
 <!-- banner -->
-<p align="center" id="top"><img src="img/main-banner.png" alt="Ali t.nazari"/></p>
+<!-- <p align="center" id="top"><img src="img/main-banner.png" alt="Ali t.nazari"/></p> -->
 <!-- welcome -->
 <p><h1><img  width="30px" height="30px" src="./img/emoji.gif" > Hi & Welcome !<img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""></h1></p>
 

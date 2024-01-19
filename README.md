@@ -1,18 +1,18 @@
 <!-- banner -->
 <!-- <p align="center" id="top"><img src="img/main-banner.png" alt="Ali t.nazari"/></p> -->
+<!--  -->
+
 <!-- welcome -->
 <p><h1><img  width="30px" height="30px" src="./img/emoji.gif" > Hi & Welcome !<img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""></h1></p>
 
 > I'm a dedicated software developer committed for refining my skills and efforting for crafting impactful solutions for the betterment of our community. I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development.
 
 <!-- portfolio -->
-
 <p align="center">
     <a href="https://ali-nazari.netlify.app/" rel="nofollow" target="_blank">
        <img alt="Website" src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=todoist&logoColor=white" style="max-width: 100%;border-radius:5px">
     </a>
 </p>
-
 <!--  -->
 
 

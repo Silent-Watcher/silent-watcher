@@ -116,9 +116,9 @@
 </h2>
 
 <p align="center"> 
-  <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&icon_color=0891b2&bg_color=00000000&text_color=3498db&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" width="370px" />
+  <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891B2&icon_color=0891b2&bg_color=00000000&text_color=3498db&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" width="370px" />
   </a>  
-  <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent-Watcher&stroke=3498db&background=00000000&ring=0891b2&fire=0891b2&currStreakNum=3498db&currStreakLabel=0891b2&sideNums=3498db&sideLabels=3498db&dates=3498db&hide_border=true" width="370px" />
+  <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent-Watcher&stroke=0891B2&background=00000000&ring=0891b2&fire=0891B2&currStreakNum=3498db&currStreakLabel=0891B2&sideNums=3498db&sideLabels=0891B2&dates=3498db&hide_border=true" width="370px" />
   </a>  
 </p>
 

@@ -27,8 +27,8 @@
 - 📫 How to reach me in my bio
 - 🌱 I’m currently learning: Nest js 
 
-- Passionate about `technology 💻`, `music 🎸`, `anime 📺`
-
+ Passionate about `technology 💻`, `music 🎸`, `anime 📺`
+ 
 💡 Open the link to see <a href="https://ali-nazari.netlify.app/">My Resume📃</a>
 
 

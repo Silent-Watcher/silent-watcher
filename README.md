@@ -29,6 +29,8 @@
 
 - Passionate about `technology 💻`, `music 🎸`, `anime 📺`
 
+💡 Open the link to see <a href="https://ali-nazari.netlify.app/">My Resume📃</a>
+
 
 <!--       <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
         <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">

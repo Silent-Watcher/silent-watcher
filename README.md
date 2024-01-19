@@ -116,8 +116,15 @@
 </h2>
 
 <p align="center"> 
-  <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" width="370px" />
+  <a href="http://www.github.com/Silent-Watcher">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=dark">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=F4F2ED&hide_border=true&show_icons=true&theme=default">
+            <img alt="skills" src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=F4F2ED&hide_border=true&show_icons=true">
+        </picture>
   </a> 
+<!--   <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" width="370px" />
+  </a>  -->
   <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent-Watcher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="370px" />
   </a>  
 </p>

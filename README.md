@@ -5,7 +5,18 @@
 
 > I'm a dedicated software developer committed for refining my skills and efforting for crafting impactful solutions for the betterment of our community. I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development.
 
-<!-- skills & socials -->
+<!-- portfolio -->
+
+<p align="center">
+    <a href="https://ali-nazari.netlify.app/" rel="nofollow" target="_blank">
+       <img alt="Website" src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=todoist&logoColor=white" style="max-width: 100%;border-radius:5px">
+    </a>
+</p>
+
+<!--  -->
+
+
+<!-- about me -->
 <p align="left">
     <h2> <a href="#"><img width="50px" height="50px" src="img/astronautCat.gif" alt="cat"></a> About me </h2>
 </p>
@@ -17,15 +28,12 @@
 
 - Passionate about `technology 💻`, `music 🎸`, `anime 📺`
 
-<p align="center">
-      <a href="https://ali-nazari.netlify.app/" rel="nofollow" target="_blank">
-        <img alt="Website" src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=todoist&logoColor=white" style="max-width: 100%;border-radius:5px">
-      </a>
+
 <!--       <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
         <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">
       </a> -->
-</p>
-    <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt=""></p>
+      
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt=""></p>
 
 <p align="right">
   <h2 align="left">

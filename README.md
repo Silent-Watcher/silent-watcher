@@ -43,7 +43,8 @@
      <a href=""><img width="40px" src="img/socials.webp" alt="cat"></a>Socials
   </h2>
     
- >  Let's connected and collaborating on exciting projects! Feel free to reach out for collaboration, contributions, or just a tech chat.
+ >  Let's connected and collaborating on exciting projects!
+<!-- Feel free to reach out for collaboration, contributions, or just a tech chat. -->
     
   <p align="center">
       <!-- linkedin -->

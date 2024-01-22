@@ -76,7 +76,7 @@
 
 <!-- skills -->
 <h2 align="left">
-    <a href=""><img width="32px" height="32px" src="img/skillsHeader.webp" alt="skills"></a>Skills
+    <a href=""><img width="32px" height="32px" src="img/skillsHeader.webp" alt="skills"></a> Skills
 </h2>
 <p align="center">
     <picture>

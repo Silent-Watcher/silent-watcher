@@ -22,8 +22,8 @@
 </p>
 
 
+- 👀 I’m interested in programming (backend)
 - 🤝 I'm open to collaborating on open source projects
-- 👀 I’m interested in programming(backend)
 - 📫 How to reach me in my bio
 - 🌱 I’m currently learning: Nest js 
 

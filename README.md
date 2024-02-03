@@ -112,9 +112,12 @@
 </p>
 
 <!-- stats -->
-<h2 align="left">
-    <a href=""><img width="25px" height="25px" src="img/stats.gif" alt="stats"></a> My GitHub Stats
-</h2>
+<details>
+    <summary>
+        <h2 align="left">
+            <a href=""><img width="25px" height="25px" src="img/stats.gif" alt="stats"></a> My GitHub Stats
+        </h2>
+    </summary>
 
 <p align="center"> 
   <a href="http://www.github.com/Silent-Watcher"><img src="https://github-readme-stats.vercel.app/api?username=Silent-Watcher&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891B2&icon_color=0891b2&bg_color=00000000&text_color=3498db&hide_border=true&show_icons=true" alt="Silent-Watcher's GitHub stats" width="370px" />
@@ -125,6 +128,9 @@
 
 <!-- top languages-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silent-Watcher&show_icons=true&locale=en&layout=compact&hide=pug,php,scss,css,html,python&bg_color=00000000&hide_border=true&text_color=0891B2&title_color=3498db" alt="top-langs" /></p>
+
+</details>
+<!-- stats -->
 
 <!--profile-trophy -->
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Silent-Watcher&no-bg=true&amp;row=2&amp;column=3&no-frame=true&amp;theme=gruvbox" alt="trophy"></a></p>

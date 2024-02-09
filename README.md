@@ -109,6 +109,11 @@
         <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light">
         <img alt="skills" src="https://skillicons.dev/icons?i=mysql">
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&theme=light">
+        <img alt="redis" src="https://skillicons.dev/icons?i=redis">
+    </picture>
 </p>
 
 <!-- stats -->

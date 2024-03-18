@@ -34,6 +34,4 @@ const AliNazari = {
    },
 };
 ```
-
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt="profile views"></p>

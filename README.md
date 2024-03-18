@@ -13,8 +13,8 @@ const AliNazari = {
     aboutMe: "Backend Developer",
     language: ["javaScript", "typeScript"], // Node.js,
     socials : {
-        personalWebsite : "ali-nazari.netlify.app/",
-        linkedin : "linkedin.com/in/alitte/",
+        personalWebsite : "ali-nazari.netlify.app",
+        linkedin : "linkedin.com/in/alitte",
         gmail : "backendwithali@gmail.com",
         discord: "discordapp.com/users/ali.t.nazari"
     },

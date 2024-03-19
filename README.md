@@ -1,7 +1,3 @@
-<p><h1><img  width="30px" height="30px" src="./img/emoji.gif" > Hi & Welcome !<img width="30px" height="30px" src="./img/hand.gif" alt=""></h1></p>
-
-> I'm a dedicated software developer committed for refining my skills and efforting for crafting impactful solutions for the betterment of our community. I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development. 🍵🍪
-
 <!-- about me -->
 <p align="left">
     <h2><img width="50px" height="50px" src="./img/astronautCat.gif" alt="cat">About me</h2>
@@ -9,8 +5,11 @@
 
 ```javascript
 const AliNazari = {
-    pronouns: "He" | "Him",
-    aboutMe: "Backend Developer",
+    aboutMe: {
+      name: "Ali nazari",
+      pronouns: "He" | "Him",
+      hobbies: "loading ...",
+    },
     language: ["javaScript", "typeScript"], // Node.js,
     socials : {
         personalWebsite : "ali-nazari.netlify.app/",
@@ -30,7 +29,6 @@ const AliNazari = {
           frameworks: ["svelte" , "svelteKit"],
         },
         devOps: ["Docker🐳"],
-        hobbies: "loading ..."
    },
 };
 ```

@@ -12,8 +12,8 @@ const AliNazari = {
     },
     language: ["javaScript", "typeScript"], // Node.js,
     socials : {
-        personalWebsite : "ali-nazari.netlify.app/",
-        linkedin : "linkedin.com/in/alitte/",
+        personalWebsite : "ali-nazari.netlify.app",
+        linkedin : "linkedin.com/in/alitte",
         gmail : "backendwithali@gmail.com",
         discord: "discordapp.com/users/ali.t.nazari"
     },
@@ -32,6 +32,4 @@ const AliNazari = {
    },
 };
 ```
-
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt="profile views"></p>

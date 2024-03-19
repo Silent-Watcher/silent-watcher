@@ -1,4 +1,3 @@
-<!-- about me -->
 <p align="left">
     <h2><img width="50px" height="50px" src="./img/astronautCat.gif" alt="cat">About me</h2>
 </p>

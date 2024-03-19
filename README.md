@@ -1,6 +1,6 @@
-<p><h1><img  width="30px" height="30px" src="./img/emoji.gif" > Hi & Welcome !<img width="30px" height="30px" src="./img/hand.gif" alt=""></h1></p>
+<!--  <p><h1><img  width="30px" height="30px" src="./img/emoji.gif" > Hi & Welcome !<img width="30px" height="30px" src="./img/hand.gif" alt=""></h1></p>-->
 
-> I'm a dedicated software developer committed for refining my skills and efforting for crafting impactful solutions for the betterment of our community. I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development. 🍵🍪
+<!-- > I'm a dedicated software developer committed for refining my skills and efforting for crafting impactful solutions for the betterment of our community. I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development. 🍵🍪-->
 
 <!-- about me -->
 <p align="left">

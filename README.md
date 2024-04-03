@@ -11,8 +11,6 @@
 | MicroService  :| RabbitMq , gRPC    , kafka                                         |
 | DataBase   :   | MongoDB , Mysql , sqlite , Postgres , Redis , ElasticSearch |
 | API         :  | GraphQL , Swagger            |
-| Architectures: | MVC , onion , SOLID                                         |
-| RealTime    :  | socket.io , webSocket                                         |
 | DevOps       : | Docker                                                      |
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt="profile views"></p>

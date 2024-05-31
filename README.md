@@ -1,7 +1,24 @@
+<p><h1><img  width="30px" height="30px" src="./img/emoji.gif" > Hi & Welcome !<img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""></h1></p>
+
+> I'm a dedicated software developer committed for refining my skills and efforting for crafting impactful solutions for the betterment of our community. I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development. 🍵🍪
+
+
 <p align="left">
     <h2><img width="50px" height="50px" src="./img/astronautCat.gif" alt="cat">About me</h2>
 </p>
 
+- 👀 I’m interested in programming (backend)
+- 🤝 I'm open to collaborating on open source projects
+- 📫 How to reach me in my bio
+
+ Passionate about `technology 💻`, `music 🎸`
+
+ 💡 Open the link to see <a href="">My Resume📃</a>
+
+ <!-- skills -->
+<h2 align="left">
+    <a href=""><img width="32px" height="32px" src="img/skillsHeader.webp" alt="skills"></a> Skills
+</h2>
 
 
 | KEY           |                                            VALUE            |

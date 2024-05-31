@@ -16,5 +16,12 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt="profile views"></p>
 
 ## Latest Videos 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=U9mAME6us8Y"><img width="140px" src="http://img.youtube.com/vi/U9mAME6us8Y/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=U9mAME6us8Y">battery tracker</a><br/>May 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wdtD6YmLUVw"><img width="140px" src="http://img.youtube.com/vi/wdtD6YmLUVw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wdtD6YmLUVw">swoosh portfolio</a><br/>May 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dWFU6al_RYo"><img width="140px" src="http://img.youtube.com/vi/dWFU6al_RYo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dWFU6al_RYo">rock paper scissors game</a><br/>May 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=q1B4Qo28qYU"><img width="140px" src="http://img.youtube.com/vi/q1B4Qo28qYU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=q1B4Qo28qYU">timer app</a><br/>May 31, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->

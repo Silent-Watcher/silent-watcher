@@ -31,6 +31,35 @@
 | DevOps       : | Docker                                                      |
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt="profile views"></p>
+ <p align="right">
+  <h2 align="left">
+     <a href=""><img width="40px" src="img/socials.webp" alt="cat"></a>Socials
+  </h2>
+    
+ >  Let's connected and collaborating on exciting projects!
+ Feel free to reach out for collaboration, contributions, or just a tech chat.
+
+
+ <p align="center">
+      <!-- linkedin -->
+        <a href="https://www.linkedin.com/in/alitte" target="_blank">
+          <picture >
+              <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
+              <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
+              <img alt="linkedin" src="https://skillicons.dev/icons?i=linkedin">
+          </picture>
+        </a>
+      <!-- gmail -->
+        <a href="mailto:backendwithali@gmail.com" target="_blank">
+          <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
+              <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
+              <img alt="gmail" src="https://skillicons.dev/icons?i=gmail">
+          </picture>
+        </a>
+  </p>
+</p>
+
 
 ## Latest Videos 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=U9mAME6us8Y"><img width="140px" src="http://img.youtube.com/vi/U9mAME6us8Y/maxresdefault.jpg"></a></td>

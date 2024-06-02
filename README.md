@@ -42,7 +42,7 @@
 
  <p align="center">
       <!-- linkedin -->
-        <a href="https://www.linkedin.com/in/pachicodes" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-            generator/main/public/icons/socials/linkedin.svg" width="30" height="30" style="max-width: 100%;"></a>
+        <a href="https://www.linkedin.com/in/alitte" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" style="max-width: 100%;"></a>
       <!-- gmail -->
         <a href="mailto:backendwithali@gmail.com" target="_blank">
           <picture>

@@ -46,7 +46,7 @@
           <picture >
               <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
               <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
-              <img alt="linkedin" src="https://skillicons.dev/icons?i=linkedin">
+              <img width="30px" height="30px" alt="linkedin" src="https://skillicons.dev/icons?i=linkedin">
           </picture>
         </a>
       <!-- gmail -->
@@ -54,7 +54,7 @@
           <picture>
               <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
               <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
-              <img alt="gmail" src="https://skillicons.dev/icons?i=gmail">
+              <img width="30px" height="30px" alt="gmail" src="https://skillicons.dev/icons?i=gmail">
           </picture>
         </a>
   </p>

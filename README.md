@@ -42,13 +42,7 @@
 
  <p align="center">
       <!-- linkedin -->
-        <a href="https://www.linkedin.com/in/alitte" target="_blank">
-          <picture >
-              <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
-              <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
-              <img width="30px" height="30px" alt="linkedin" src="https://skillicons.dev/icons?i=linkedin">
-          </picture>
-        </a>
+        <a href="https://www.linkedin.com/in/pachicodes" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-            generator/main/public/icons/socials/linkedin.svg" width="30" height="30" style="max-width: 100%;"></a>
       <!-- gmail -->
         <a href="mailto:backendwithali@gmail.com" target="_blank">
           <picture>

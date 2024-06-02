@@ -63,4 +63,8 @@
 
 ## Latest Videos 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![battery tracker](https://ytcards.demolab.com/?id=U9mAME6us8Y&title=battery+tracker&lang=en&timestamp=1717184514&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "battery tracker")](https://www.youtube.com/watch?v=U9mAME6us8Y)
+[![swoosh portfolio](https://ytcards.demolab.com/?id=wdtD6YmLUVw&title=swoosh+portfolio&lang=en&timestamp=1717182571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "swoosh portfolio")](https://www.youtube.com/watch?v=wdtD6YmLUVw)
+[![rock paper scissors game](https://ytcards.demolab.com/?id=dWFU6al_RYo&title=rock+paper+scissors+game&lang=en&timestamp=1717181808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "rock paper scissors game")](https://www.youtube.com/watch?v=dWFU6al_RYo)
+[![timer app](https://ytcards.demolab.com/?id=q1B4Qo28qYU&title=timer+app&lang=en&timestamp=1717180865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "timer app")](https://www.youtube.com/watch?v=q1B4Qo28qYU)
 <!-- END YOUTUBE-CARDS -->

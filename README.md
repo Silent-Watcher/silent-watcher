@@ -45,14 +45,14 @@
       <!-- linkedin -->
         <a href="https://www.linkedin.com/in/alitte" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" style="max-width: 100%;"></a>
       <!-- gmail -->
-        <a href="https://discordapp.com/users/1047559485964681369" target="_blank">
+        <a href="mailto:backendwithali@gmail.com" target="_blank">
           <picture>
               <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
               <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
               <img width="30px" height="30px" alt="gmail" src="https://skillicons.dev/icons?i=gmail">
           </picture>
         </a>
-       <a href="mailto:backendwithali@gmail.com" target="_blank">
+       <a href="https://discordapp.com/users/1047559485964681369" target="_blank">
           <picture>
               <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=discord&theme=dark">
               <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=discord&theme=light">

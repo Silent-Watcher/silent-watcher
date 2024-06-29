@@ -59,6 +59,13 @@
               <img width="30px" height="30px" alt="gmail" src="https://skillicons.dev/icons?i=gmail">
           </picture>
         </a>
+       <a href="https://dev.to/silentwatcher_95" target="_blank">
+          <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=devto&theme=dark">
+              <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=devto&theme=light">
+              <img width="30px" height="30px" alt="devto" src="https://skillicons.dev/icons?i=devto">
+          </picture>
+        </a>
   </p>
 </p>
 

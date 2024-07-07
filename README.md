@@ -13,7 +13,7 @@
 
  Passionate about `technology 💻`, `music 🎸`
 
- 💡 Open the link to see <a href="">My Resume📃</a>
+ 💡 Open the link to see <a href="https://github.com/Silent-Watcher/silent-watcher/blob/master/resume.pdf">My Resume📃</a>
 
  <!-- skills -->
 <h2 align="left">

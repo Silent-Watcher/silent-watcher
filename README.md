@@ -41,7 +41,6 @@
 
 
  <p align="center">
-     <a href="https://www.polywork.com/ali_nazari" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="30" height="30" style="max-width: 100%;"></a>
       <!-- linkedin -->
         <a href="https://www.linkedin.com/in/alitte" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" style="max-width: 100%;"></a>
       <!-- gmail -->

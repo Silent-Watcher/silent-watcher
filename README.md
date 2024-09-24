@@ -15,20 +15,7 @@
 
  💡 Open the link to see <a href="https://github.com/Silent-Watcher/silent-watcher/blob/master/resume.pdf">My Resume📃</a>
 
- <!-- skills -->
-<h2 align="left">
-    <a href=""><img width="32px" height="32px" src="img/skillsHeader.webp" alt="skills"></a> Skills
-</h2>
 
-
-| KEY           |                                            VALUE            |
-|--------------:|-------------------------------------------------------------|
-| Language                  :| Javascript , TypeScript                                     |
-| FrameWork                 : | Nestjs , ExpressJs , fastify                                |
-| MicroService  :| RabbitMq , gRPC    , kafka                                         |
-| DataBase   :   | MongoDB , Mysql , sqlite , Postgres , Redis , ElasticSearch |
-| API         :  | GraphQL , Swagger            |
-| DevOps       : | Docker                                                      |
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt="profile views"></p>
  <p align="right">

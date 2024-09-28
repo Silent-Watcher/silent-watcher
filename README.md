@@ -13,10 +13,6 @@
 
  Passionate about `technology 💻`, `music 🎸`
 
- 💡 Open the link to see <a href="https://github.com/Silent-Watcher/silent-watcher/blob/master/resume.pdf">My Resume📃</a>
-
-
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt="profile views"></p>
  <p align="right">
   <h2 align="left">

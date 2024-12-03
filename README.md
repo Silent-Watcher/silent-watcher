@@ -1,15 +1,15 @@
-<p><h1><img  width="30px" height="30px" src="./img/emoji.gif" > Hi & Welcome !<img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""></h1></p>
+<p><h1>Hi & Welcome !<img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""></h1></p>
 
-> I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development. 🍵🍪
+> I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development.
 
 
 <p align="left">
     <h2><img width="50px" height="50px" src="./img/astronautCat.gif" alt="cat">About me</h2>
 </p>
 
-- 👀 I’m interested in programming (backend)
-- 🤝 I'm open to collaborating on open source projects
-- 📫 How to reach me in my bio
+-  I’m interested in programming (backend)
+-  I'm open to collaborating on open source projects
+-  How to reach me in my bio
 
  Passionate about `technology 💻`, `music 🎸`
 

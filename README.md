@@ -9,7 +9,7 @@
 <!--     <h2><img width="50px" height="50px" src="./img/astronautCat.gif" alt="cat">About me</h2> -->
 <!-- </p> -->
 
--  I’m interested in programming (backend)
+-  I’m interested in programming (back-end)
 -  I'm open to collaborating on open source projects
 -  How to reach me in my bio
 

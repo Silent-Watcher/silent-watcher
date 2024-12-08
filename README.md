@@ -17,7 +17,8 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt="profile views"></p>
  <p align="right">
   <h2 align="left">
-     <a href=""><img width="40px" src="img/socials.webp" alt="cat"></a>Socials
+     <!-- <a href=""><img width="40px" src="img/socials.webp" alt="cat"></a> -->
+   Socials
   </h2>
     
  >  Let's connected and collaborating on exciting projects!

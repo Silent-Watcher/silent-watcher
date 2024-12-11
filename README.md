@@ -1,23 +1,12 @@
-<p><h1>Hi & Welcome !
-<!--     <img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""> -->
-</h1></p>
+# Hi & Welcome !
 
 > I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development.
-
-
-<!-- <p align="left"> -->
-<!--     <h2><img width="50px" height="50px" src="./img/astronautCat.gif" alt="cat">About me</h2> -->
-<!-- </p> -->
-
-- I’m interested in programming (back-end)
-- I'm open to collaborating on open source projects
 
  Passionate about `technology 💻`, `music 🎸`
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt="profile views"></p>
  <p align="right">
   <h2 align="left">
-     <!-- <a href=""><img width="40px" src="img/socials.webp" alt="cat"></a> -->
    Socials
   </h2>
     

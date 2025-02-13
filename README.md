@@ -4,6 +4,15 @@
 
  Passionate about `technology 💻`, `music 🎸`
 
+<div>
+  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=nest" height="30" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="lua logo"  />
+</div>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt="profile views"></p>
  <p align="right">
   <h2 align="left">

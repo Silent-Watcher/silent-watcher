@@ -11,6 +11,7 @@
   <img src="https://skillicons.dev/icons?i=nest" height="30" alt="nest logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
 

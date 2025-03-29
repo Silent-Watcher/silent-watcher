@@ -13,10 +13,6 @@
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
 
-## Trophies
-
-https://github-profile-trophy.vercel.app/?username=Silent-Watcher&theme=gruvbox
-
  ## Socials
     
  >  Let's connected and collaborating on exciting projects!

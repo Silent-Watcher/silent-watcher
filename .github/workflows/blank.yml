@@ -1,0 +1,24 @@
+name: DevtoGitHub
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily, adjust as needed
+  # The lines below will allow you to manually run the workflow with each commit
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  save-articles:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Run DevtoGitHub
+        uses: Anmol-Baranwal/DevtoGitHub@v1
+        with:
+          devApiKey: ${{ secrets.DEV_TOKEN }}
+          saveArticles: false # default is true
+          readingList: true # default is false
+          outputDirReading: "" # this is default and it will save reading list in Readme.md in root directory

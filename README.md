@@ -2,6 +2,9 @@
 
 Did someone say coffee? :)
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
 ## Latest Blog Posts
 <a href="https://dev.to/silentwatcher_95"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 

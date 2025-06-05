@@ -11,3 +11,8 @@
 - [When a Single create&lpar;&rpar; Call Becomes Two Writes: A Mongo + Mongoose Gotcha 😨](https://dev.to/silentwatcher_95/when-a-single-create-call-becomes-two-writes-a-mongo-mongoose-gotcha-32a6)
 - [Why Your MongoDB Transactions Aren’t Working in Docker — and How to Fix It 🚨](https://dev.to/silentwatcher_95/why-your-mongodb-transactions-arent-working-in-docker-and-how-to-fix-it-3d83)
 <!-- BLOG-POST-LIST:END -->
+
+## Recent Projects
+- [req-query-cache package](https://www.npmjs.com/package/req-query-cache)
+- [express-admin-honeypot package](https://www.npmjs.com/package/express-admin-honeypot)
+- [validate-branch package](https://www.npmjs.com/package/validate-branch)

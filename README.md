@@ -20,6 +20,6 @@
 - [sightenginejs](https://www.npmjs.com/package/sightenginejs)
 - [AI-Note-App-API](https://github.com/Silent-Watcher/note-app-api)
 
-## pending
+## Pending
 
 - [AI-Fixer](https://github.com/Silent-Watcher/aifixer)

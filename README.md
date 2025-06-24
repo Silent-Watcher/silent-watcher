@@ -19,3 +19,7 @@
 - [validate-branch package](https://www.npmjs.com/package/validate-branch)
 - [sightenginejs](https://www.npmjs.com/package/sightenginejs)
 - [AI-Note-App-API](https://github.com/Silent-Watcher/note-app-api)
+
+## pending
+
+- [AI-Fixer](https://github.com/Silent-Watcher/aifixer)

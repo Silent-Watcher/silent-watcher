@@ -5,11 +5,11 @@
 <a href="https://dev.to/silentwatcher_95"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate Your Node.js Startup with NODE_COMPILE_CACHE](https://dev.to/silentwatcher_95/accelerate-your-nodejs-startup-with-nodecompilecache-5a2p)
 - [Understanding Node.js ABI Version: What It Is and Why It Matters](https://dev.to/silentwatcher_95/understanding-nodejs-abi-version-what-it-is-and-why-it-matters-22g3)
 - [The Silent Killers in Node.js: uncaughtException and unhandledRejection 🐦](https://dev.to/silentwatcher_95/the-silent-killers-in-nodejs-uncaughtexception-and-unhandledrejection-1p9b)
 - [Centralize Your Node.js Config: How to Leverage npm&#39;s config Key with cross-env](https://dev.to/silentwatcher_95/centralize-your-nodejs-config-how-to-leverage-npms-config-key-with-cross-env-l2h)
 - [Why You Should Deep Copy Request Payloads in Node.js &lpar;Express &amp; NestJS&rpar;](https://dev.to/silentwatcher_95/why-you-should-deep-copy-request-payloads-in-nodejs-express-nestjs-59kk)
-- [Streamlining Image Moderation API Uploads in Node.js: From Native Fetch to Form‑Data and DNS Fixes ⚙](https://dev.to/silentwatcher_95/streamlining-image-moderation-api-uploads-in-nodejs-from-native-fetch-to-form-data-and-dns-fixes-3md6)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Projects

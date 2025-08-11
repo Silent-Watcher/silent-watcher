@@ -1,6 +1,3 @@
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
 ### Latest Blog Posts
 <a href="https://dev.to/silentwatcher_95"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
@@ -20,20 +17,11 @@
 - [dotxx](https://www.npmjs.com/package/dotxx)
 - [AI-Note-App-API](https://github.com/Silent-Watcher/note-app-api)
 
-### Pending
-
-- [AI-Fixer](https://github.com/Silent-Watcher/aifixer)
-
-### 🔭 My areas of expertise include: ###
-
-* Designing and implementing complex software systems
-* Writing clean, maintainable, and scalable code
-* Building RESTful APIs using Node.js
-* Developing microservices architectures
-* Creating and managing databases (SQL, NoSQL)
-* Implementing security measures to protect applications from cyber threats 
-
-### 💬 Let's connect: ###
-
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/alitte "LinkedIn")
-* Email: backendwithali@gmail.com
+<p align="center">
+  <samp>
+        <a href="https://www.linkedin.com/in/alitte/"><code>linkedln</code></a> .    
+        <a href="https://medium.com/@backendwithali"><code>Medium</code></a> .
+        <a href="mailto:backendwithali@gmail.com"><code>Email</code></a> .
+        <a href="https://gist.github.com/Silent-Watcher"><code>gists</code></a> .
+  </samp>
+</p>

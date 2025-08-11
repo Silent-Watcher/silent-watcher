@@ -15,6 +15,7 @@
 - [express-admin-honeypot package](https://www.npmjs.com/package/express-admin-honeypot)
 - [validate-branch package](https://www.npmjs.com/package/validate-branch)
 - [dotxx](https://www.npmjs.com/package/dotxx)
+- [spotenv](https://github.com/Silent-Watcher/spotenv)
 
 <p align="center">
   <samp>

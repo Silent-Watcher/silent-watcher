@@ -15,7 +15,6 @@
 - [express-admin-honeypot package](https://www.npmjs.com/package/express-admin-honeypot)
 - [validate-branch package](https://www.npmjs.com/package/validate-branch)
 - [dotxx](https://www.npmjs.com/package/dotxx)
-- [AI-Note-App-API](https://github.com/Silent-Watcher/note-app-api)
 
 <p align="center">
   <samp>

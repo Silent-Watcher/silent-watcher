@@ -16,7 +16,8 @@
 - [validate-branch package](https://www.npmjs.com/package/validate-branch)
 - [dotxx](https://www.npmjs.com/package/dotxx)
 - [spotenv](https://github.com/Silent-Watcher/spotenv)
-
+- [sightengine-js](https://github.com/Silent-Watcher/sightenginejs)
+  
 <p align="center">
   <samp>
         <a href="https://www.linkedin.com/in/alitte/"><code>linkedln</code></a> .    

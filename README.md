@@ -17,6 +17,7 @@
 - [dotxx](https://www.npmjs.com/package/dotxx)
 - [spotenv](https://github.com/Silent-Watcher/spotenv)
 - [sightengine-js](https://github.com/Silent-Watcher/sightenginejs)
+- [mongoose-reactions](https://github.com/Silent-Watcher/mongoose-reactions)
   
 <p align="center">
   <samp>

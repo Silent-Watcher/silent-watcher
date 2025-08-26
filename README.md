@@ -27,3 +27,13 @@
         <a href="https://gist.github.com/Silent-Watcher"><code>gists</code></a> .
   </samp>
 </p>
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Silent-Watcher&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Silent-Watcher"
+    width="500"
+    height="120"
+  />
+</a>
+  

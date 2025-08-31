@@ -2,11 +2,11 @@
 <a href="https://dev.to/silentwatcher_95"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Unearth Your Code’s Hidden TODOs &amp; Supercharge Your Workflow with comment-todo!](https://dev.to/silentwatcher_95/unearth-your-codes-hidden-todos-supercharge-your-workflow-with-comment-todo-24j8)
 - [Build social features fast with mongoose-reactions — a tiny, production-ready Mongoose plugin for reactions](https://dev.to/silentwatcher_95/build-social-features-fast-with-mongoose-reactions-a-tiny-production-ready-mongoose-plugin-for-41i5)
 - [Automatically Generate .env.example from Your Code—No More Guesswork!](https://dev.to/silentwatcher_95/automatically-generate-envexample-from-your-code-no-more-guesswork-8i5)
 - [Accelerate Your Node.js Startup with NODE_COMPILE_CACHE](https://dev.to/silentwatcher_95/accelerate-your-nodejs-startup-with-nodecompilecache-5a2p)
 - [Understanding Node.js ABI Version: What It Is and Why It Matters](https://dev.to/silentwatcher_95/understanding-nodejs-abi-version-what-it-is-and-why-it-matters-22g3)
-- [The Silent Killers in Node.js: uncaughtException and unhandledRejection 🐦](https://dev.to/silentwatcher_95/the-silent-killers-in-nodejs-uncaughtexception-and-unhandledrejection-1p9b)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Projects

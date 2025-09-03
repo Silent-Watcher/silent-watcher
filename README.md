@@ -20,6 +20,7 @@
 - [mongoose-reactions](https://github.com/Silent-Watcher/mongoose-reactions)
 - [comment-todo](https://github.com/Silent-Watcher/comment-todo)
 - [npm-name-checker](https://github.com/Silent-Watcher/npm-name-checker)
+- [shell2node](https://github.com/Silent-Watcher/shell2node)
   
 <p align="center">
   <samp>

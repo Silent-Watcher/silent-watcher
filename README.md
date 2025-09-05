@@ -27,7 +27,6 @@
         <a href="https://www.linkedin.com/in/alitte/"><code>linkedln</code></a> .    
         <a href="https://medium.com/@backendwithali"><code>Medium</code></a> .
         <a href="mailto:backendwithali@gmail.com"><code>Email</code></a> .
-        <a href="https://gist.github.com/Silent-Watcher"><code>gists</code></a> .
   </samp>
 </p>
 

@@ -21,6 +21,7 @@
 - [comment-todo](https://github.com/Silent-Watcher/comment-todo)
 - [npm-name-checker](https://github.com/Silent-Watcher/npm-name-checker)
 - [shell2node](https://github.com/Silent-Watcher/shell2node)
+- [regexplain](https://github.com/Silent-Watcher/regexplain)
   
 <p align="center">
   <samp>

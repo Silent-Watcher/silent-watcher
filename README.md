@@ -1,3 +1,11 @@
+<p align="center">
+  <samp>
+        <a href="https://www.linkedin.com/in/alitte/"><code>linkedln</code></a> .    
+        <a href="https://medium.com/@backendwithali"><code>Medium</code></a> .
+        <a href="mailto:backendwithali@gmail.com"><code>Email</code></a> .
+  </samp>
+</p>
+
 ### Latest Blog Posts
 <a href="https://dev.to/silentwatcher_95"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
@@ -23,13 +31,6 @@
 - [shell2node](https://github.com/Silent-Watcher/shell2node) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/shell2node?style=flat)
 - [regexplain](https://github.com/Silent-Watcher/regexplain) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/regexplain?style=flat)
   
-<p align="center">
-  <samp>
-        <a href="https://www.linkedin.com/in/alitte/"><code>linkedln</code></a> .    
-        <a href="https://medium.com/@backendwithali"><code>Medium</code></a> .
-        <a href="mailto:backendwithali@gmail.com"><code>Email</code></a> .
-  </samp>
-</p>
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Silent-Watcher&utm_content=line">

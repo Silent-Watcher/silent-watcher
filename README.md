@@ -23,7 +23,6 @@
 - [express-admin-honeypot package](https://www.npmjs.com/package/express-admin-honeypot)  ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/express-admin-honeypot?style=flat)
 - [validate-branch package](https://www.npmjs.com/package/validate-branch) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/branch-lint?style=flat)
 - [dotxx](https://www.npmjs.com/package/dotxx) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/dotx?style=flat)
-- [spotenv](https://github.com/Silent-Watcher/spotenv) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/spotenv?style=flat)
 - [sightengine-js](https://github.com/Silent-Watcher/sightenginejs) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/sightenginejs?style=flat)
 - [mongoose-reactions](https://github.com/Silent-Watcher/mongoose-reactions) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/mongoose-reactions?style=flat)
 - [comment-todo](https://github.com/Silent-Watcher/comment-todo) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/comment-todo?style=flat)

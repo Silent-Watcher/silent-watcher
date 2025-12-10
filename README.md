@@ -22,6 +22,7 @@
 - [req-query-cache package](https://www.npmjs.com/package/req-query-cache) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/req-query-cache?style=flat)
 - [express-admin-honeypot package](https://www.npmjs.com/package/express-admin-honeypot)  ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/express-admin-honeypot?style=flat)
 - [validate-branch package](https://www.npmjs.com/package/validate-branch) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/branch-lint?style=flat)
+- [pino-quiet](https://www.npmjs.com/package/pino-quiet) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/pino-quiet?style=flat)
 - [dotxx](https://www.npmjs.com/package/dotxx) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/dotx?style=flat)
 - [sightengine-js](https://github.com/Silent-Watcher/sightenginejs) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/sightenginejs?style=flat)
 - [mongoose-reactions](https://github.com/Silent-Watcher/mongoose-reactions) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/mongoose-reactions?style=flat)

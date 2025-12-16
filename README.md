@@ -10,11 +10,11 @@
 <a href="https://dev.to/silentwatcher_95"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing the Bulkhead Pattern in Node.js](https://dev.to/silentwatcher_95/implementing-the-bulkhead-pattern-in-nodejs-14ao)
 - [Why Custom JavaScript Errors Create Messy Stack Traces and How Error.captureStackTrace Fixes Them](https://dev.to/silentwatcher_95/why-custom-javascript-errors-create-messy-stack-traces-and-how-errorcapturestacktrace-fixes-them-3ahb)
 - [Preventing Accidental Interchangeability in TypeScript — Branding &amp; the Unique Property Pattern](https://dev.to/silentwatcher_95/preventing-accidental-interchangeability-in-typescript-branding-the-unique-property-pattern-hda)
 - [Nested query strings in depth — a complete technical guide](https://dev.to/silentwatcher_95/nested-query-strings-in-depth-a-complete-technical-guide-1io8)
 - [From TCP to Express: Understanding Request Lifecycles and Cancellation](https://dev.to/silentwatcher_95/from-tcp-to-express-understanding-request-lifecycles-and-cancellation-474c)
-- [The Complete Guide to Request Cancellation in Web Applications Using Node.js](https://dev.to/silentwatcher_95/the-complete-guide-to-request-cancellation-in-web-applications-using-nodejs-1f6k)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Projects

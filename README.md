@@ -18,20 +18,20 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Projects
+- [comment-todo](https://github.com/Silent-Watcher/comment-todo) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/comment-todo?style=flat)
+- [express-admin-honeypot package](https://www.npmjs.com/package/express-admin-honeypot)  ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/express-admin-honeypot?style=flat)
+- [mongoose-reactions](https://github.com/Silent-Watcher/mongoose-reactions) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/mongoose-reactions?style=flat)
+- [Resilia](https://github.com/Silent-Watcher/resilia)![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/resilia?style=flat)
+- [dotxx](https://www.npmjs.com/package/dotxx) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/dotx?style=flat)
 - [express-to-postman](https://www.npmjs.com/package/express-to-postman) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/express-to-postman?style=flat)
 - [req-query-cache package](https://www.npmjs.com/package/req-query-cache) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/req-query-cache?style=flat)
-- [express-admin-honeypot package](https://www.npmjs.com/package/express-admin-honeypot)  ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/express-admin-honeypot?style=flat)
-- [validate-branch package](https://www.npmjs.com/package/validate-branch) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/branch-lint?style=flat)
-- [pino-quiet](https://www.npmjs.com/package/pino-quiet) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/pino-quiet?style=flat)
-- [dotxx](https://www.npmjs.com/package/dotxx) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/dotx?style=flat)
-- [sightengine-js](https://github.com/Silent-Watcher/sightenginejs) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/sightenginejs?style=flat)
-- [mongoose-reactions](https://github.com/Silent-Watcher/mongoose-reactions) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/mongoose-reactions?style=flat)
-- [comment-todo](https://github.com/Silent-Watcher/comment-todo) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/comment-todo?style=flat)
-- [npm-name-checker](https://github.com/Silent-Watcher/npm-name-checker) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/npm-name-checker?style=flat)
 - [shell2node](https://github.com/Silent-Watcher/shell2node) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/shell2node?style=flat)
+- [sightengine-js](https://github.com/Silent-Watcher/sightenginejs) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/sightenginejs?style=flat)
 - [regexplain](https://github.com/Silent-Watcher/regexplain) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/regexplain?style=flat)
+- [npm-name-checker](https://github.com/Silent-Watcher/npm-name-checker) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/npm-name-checker?style=flat)
+- [pino-quiet](https://www.npmjs.com/package/pino-quiet) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/pino-quiet?style=flat)
+- [validate-branch package](https://www.npmjs.com/package/validate-branch) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/branch-lint?style=flat)
   
-
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Silent-Watcher&utm_content=line">
   <img

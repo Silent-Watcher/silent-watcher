@@ -10,11 +10,11 @@
 <a href="https://dev.to/silentwatcher_95"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Why setTimeout Returns an Object in Node.js &lpar;and Why setInterval Can Break Your App&rpar;](https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj)
 - [Bulletproof Your Node.js Applications with Resilia: A Lightweight Resilience Stack](https://dev.to/silentwatcher_95/bulletproof-your-nodejs-applications-with-resilia-a-lightweight-resilience-stack-191d)
 - [Implementing a Circuit Breaker in Node.js](https://dev.to/silentwatcher_95/implementing-a-circuit-breaker-in-nodejs-1a18)
 - [Implementing the Bulkhead Pattern in Node.js](https://dev.to/silentwatcher_95/implementing-the-bulkhead-pattern-in-nodejs-14ao)
 - [Why Custom JavaScript Errors Create Messy Stack Traces and How Error.captureStackTrace Fixes Them](https://dev.to/silentwatcher_95/why-custom-javascript-errors-create-messy-stack-traces-and-how-errorcapturestacktrace-fixes-them-3ahb)
-- [Preventing Accidental Interchangeability in TypeScript — Branding &amp; the Unique Property Pattern](https://dev.to/silentwatcher_95/preventing-accidental-interchangeability-in-typescript-branding-the-unique-property-pattern-hda)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Projects

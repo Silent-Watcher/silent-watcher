@@ -28,6 +28,7 @@
 - [shell2node](https://github.com/Silent-Watcher/shell2node) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/shell2node?style=flat)
 - [sightengine-js](https://github.com/Silent-Watcher/sightenginejs) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/sightenginejs?style=flat)
 - [regexplain](https://github.com/Silent-Watcher/regexplain) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/regexplain?style=flat)
+- [Zoomon-API](https://github.com/Silent-Watcher/zoomon-api)![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/zoomon-api?style=flat)
 - [npm-name-checker](https://github.com/Silent-Watcher/npm-name-checker) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/npm-name-checker?style=flat)
 - [pino-quiet](https://www.npmjs.com/package/pino-quiet) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/pino-quiet?style=flat)
 - [validate-branch package](https://www.npmjs.com/package/validate-branch) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/branch-lint?style=flat)

@@ -34,12 +34,8 @@
 - [validate-branch package](https://www.npmjs.com/package/validate-branch) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/branch-lint?style=flat)
 - [hedge-fetch](https://github.com/Silent-Watcher/hedge-fetch) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/hedge-fetch?style=flat)
 - [dxflow](https://github.com/Silent-Watcher/dxflow) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/dxflow?style=flat)
-  
 
-<!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Silent-Watcher&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Silent-Watcher"
-    width="500"
-    height="120"
-  />
-</a> -->
+
+![GitHub User's stars](https://img.shields.io/github/stars/Silent-Watcher?style=social&logoColor=royalblue)  
+
+

@@ -20,6 +20,9 @@
 ### Recent Projects
 - [comment-todo](https://github.com/Silent-Watcher/comment-todo) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/comment-todo?style=flat)
 - [Zoomon-API](https://github.com/Silent-Watcher/zoomon-api)![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/zoomon-api?style=flat)
+
+- [nestjs-quota](https://github.com/Silent-Watcher/nestjs-quota) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/nestjs-quota?style=flat)
+
 - [express-admin-honeypot package](https://www.npmjs.com/package/express-admin-honeypot)  ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/express-admin-honeypot?style=flat)
 - [Resilia](https://github.com/Silent-Watcher/resilia)![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/resilia?style=flat)
 - [mongoose-reactions](https://github.com/Silent-Watcher/mongoose-reactions) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/mongoose-reactions?style=flat)
@@ -34,7 +37,6 @@
 - [npm-name-checker](https://github.com/Silent-Watcher/npm-name-checker) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/npm-name-checker?style=flat)
 - [pino-quiet](https://www.npmjs.com/package/pino-quiet) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/pino-quiet?style=flat)
 - [validate-branch package](https://www.npmjs.com/package/validate-branch) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/branch-lint?style=flat)
-- [nestjs-quota](https://github.com/Silent-Watcher/nestjs-quota) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/nestjs-quota?style=flat)
 
 
 

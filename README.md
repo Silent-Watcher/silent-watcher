@@ -20,7 +20,7 @@
 ### Recent Projects
 - [comment-todo](https://github.com/Silent-Watcher/comment-todo) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/comment-todo?style=flat)
 - [Zoomon-API](https://github.com/Silent-Watcher/zoomon-api)![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/zoomon-api?style=flat)
-
+- [connect-redis-ioredis](https://github.com/Silent-Watcher/connect-redis-ioredis) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/connect-redis-ioredis?style=flat) 
 - [nestjs-quota](https://github.com/Silent-Watcher/nestjs-quota) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/nestjs-quota?style=flat)
 - [nestjs-auth-throttle](https://github.com/Silent-Watcher/nestjs-auth-throttle) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/nestjs-auth-throttle?style=flat)
 - [express-admin-honeypot package](https://www.npmjs.com/package/express-admin-honeypot)  ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/express-admin-honeypot?style=flat)

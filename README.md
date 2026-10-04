@@ -35,7 +35,7 @@
 - [sightengine-js](https://github.com/Silent-Watcher/sightenginejs) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/sightenginejs?style=flat)
 - [regexplain](https://github.com/Silent-Watcher/regexplain) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/regexplain?style=flat)
 - [npm-name-checker](https://github.com/Silent-Watcher/npm-name-checker) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/npm-name-checker?style=flat)
-- [pino-quiet](https://www.npmjs.com/package/pino-quiet) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/pino-quiet?style=flat)
+- [pino-quiet](https://github.com/Silent-Watcher/pino-quiet) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/pino-quiet?style=flat)
 - [validate-branch package](https://www.npmjs.com/package/validate-branch) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/branch-lint?style=flat)
 
 

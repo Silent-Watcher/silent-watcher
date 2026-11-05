@@ -40,6 +40,8 @@
 - [cursor-effects](https://github.com/Silent-Watcher/cursor-effects) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/cursor-effects?style=flat)
 - [neo-bank](https://github.com/Silent-Watcher/neo-bank) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/neo-bank?style=flat)
 - [nestjs-honeypot](https://github.com/Silent-Watcher/nestjs-honeypot) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/nestjs-honeypot?style=flat)
+- [typehealth](https://github.com/Silent-Watcher/typehealth) ![GitHub Repo stars](https://img.shields.io/github/stars/Silent-Watcher/typehealth?style=flat)
+
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Silent-Watcher?style=social&logoColor=royalblue)  
 
